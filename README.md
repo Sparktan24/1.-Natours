@@ -11,7 +11,7 @@
 
 ## Live Page
 
-[Live Demo Link](Soon)
+[Live Demo Link](https://sparktan24.github.io/1.-Natours/)
 
 
 ## Getting Started
